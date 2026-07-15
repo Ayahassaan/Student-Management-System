@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1784079813 source:d:\c++_projects\studentmanagementsystem\main.cpp
+	<iostream>
+	"StudentManagement.h"
+
+1784057973 source:d:\c++_projects\studentmanagementsystem\src\student.cpp
+	"student.h"
+	<cctype>
+	<limits>
+
+1784081566 d:\c++_projects\studentmanagementsystem\include\student.h
+	<iostream>
+	<string>
+
+1784080855 source:d:\c++_projects\studentmanagementsystem\src\studentmanagement.cpp
+	"StudentManagement.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1784079263 d:\c++_projects\studentmanagementsystem\include\studentmanagement.h
+	<vector>
+	"Student.h"
+

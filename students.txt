@@ -1,0 +1,8 @@
+5|Alaa Ali|24|Artificial Intelligence|3.5
+3|Amanyy MMohamed|12|Artificial Intelligence|1
+1|Aya Hassan|20|Computer Science|2.5
+9|Aya Mohamed|22|Artificial Intelligence|3.1
+2|Aya Saad|21|Information Technology|3.1
+6|Mohamed Ahmed|24|Information Technology|2.9
+7|Mohamed Radwan|25|Information Systems|3.6
+8|wael|22|Computer Science|1
