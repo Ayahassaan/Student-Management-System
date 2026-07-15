@@ -76,6 +76,6 @@ StudentManagementSystem
 
 ## Author
 
-Adele Ahmed
+Aya Hassan
 
 Computer Science & AI Graduate.
